@@ -1,6 +1,6 @@
-streamlit
 python-pptx
-pypdf2
-reportlab
-ollama
-fitz
+Pillow
+PyPDF2
+pdfplumber
+pdf2image
+streamlit
